@@ -1,4 +1,4 @@
-# Kimo's Kitchen
+# Restaurant site - original brand name Kimo's Kitchen 
 
 A first-party Hawaiian diner site: public menu, bag, checkout, events, and a kitchen admin for dishes, prices, tickets and delivery connectors.
 
